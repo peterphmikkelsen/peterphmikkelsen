@@ -20,6 +20,3 @@
 
 [![image](https://user-images.githubusercontent.com/31919921/155532905-cc5389f1-d7be-42fb-afc8-caa2f355feeb.png)](https://addons.mozilla.org/en-US/firefox/addon/audible-volume-control/)
 [![chrome](https://user-images.githubusercontent.com/31919921/169718682-953bb1b8-a6c7-4663-8402-91e352a9286b.png)](https://chrome.google.com/webstore/detail/audible-audio-control/djbhnpbemmoeenglcdojbkmpdmlcgeoi)
-
-## Work
-![paymenttools](https://github.com/peterphmikkelsen/peterphmikkelsen/assets/31919921/69aef4ae-c57b-4894-b2cc-3430eae46d8a)
