@@ -1,16 +1,25 @@
-### Hi there 👋
+# *Hello there!* 👋 I'm Peter Mikkelsen!
+*Software Engineer @ [paymenttools](https://www.paymenttools.com/en])*
 
-<!--
-**peterphmikkelsen/peterphmikkelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Cologne, North Rhine-Westphalia, Germany
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:peterphmikkelsen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-mikkelsen-9a3b60208/)
+![GitHub followers](https://img.shields.io/github/followers/peterphmikkelsen?label=Follow&style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterphmikkelsen&theme=github_dark"></img>
+
+## Popular Apps
+[**Audible Volume Control**](https://github.com/peterphmikkelsen/audible-volume-control/tree/main)
+
+![Mozilla Add-on](https://img.shields.io/amo/users/audible-volume-control?color=purple&label=firefox%20users)
+![Mozilla Add-on](https://img.shields.io/amo/stars/audible-volume-control?color=purple&label=firefox%20rating)
+
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/djbhnpbemmoeenglcdojbkmpdmlcgeoi?color=blue&label=chrome%20users)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/djbhnpbemmoeenglcdojbkmpdmlcgeoi?color=blue&label=chrome%20rating)
+
+[![image](https://user-images.githubusercontent.com/31919921/155532905-cc5389f1-d7be-42fb-afc8-caa2f355feeb.png)](https://addons.mozilla.org/en-US/firefox/addon/audible-volume-control/)
+[![chrome](https://user-images.githubusercontent.com/31919921/169718682-953bb1b8-a6c7-4663-8402-91e352a9286b.png)](https://chrome.google.com/webstore/detail/audible-audio-control/djbhnpbemmoeenglcdojbkmpdmlcgeoi)
+
+## Work
+![paymenttools](https://github.com/peterphmikkelsen/peterphmikkelsen/assets/31919921/69aef4ae-c57b-4894-b2cc-3430eae46d8a)
