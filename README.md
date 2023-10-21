@@ -1,5 +1,5 @@
 # *Hello there!* 👋 I'm Peter Mikkelsen!
-*Software Engineer @ [paymenttools](https://www.paymenttools.com/en])*
+*Software Engineer @ [paymenttools](https://www.paymenttools.com/en)*
 
 🌍 Cologne, North Rhine-Westphalia, Germany
 
