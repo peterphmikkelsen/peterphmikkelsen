@@ -3,7 +3,6 @@
 
 🌍 Cologne, North Rhine-Westphalia, Germany
 
-![Gmail-D14836](https://github.com/peterphmikkelsen/peterphmikkelsen/assets/31919921/db0b84ea-ec61-4cc5-b0e4-9923f7a99c19)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-mikkelsen-9a3b60208/)
 ![GitHub followers](https://img.shields.io/github/followers/peterphmikkelsen?label=Follow&style=social)
 
